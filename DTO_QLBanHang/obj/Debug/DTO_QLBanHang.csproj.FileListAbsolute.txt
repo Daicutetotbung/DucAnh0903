@@ -1,0 +1,12 @@
+D:\New folder (3)\QLBanHang\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.dll.config
+D:\New folder (3)\QLBanHang\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+D:\New folder (3)\QLBanHang\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+D:\New folder (3)\QLBanHang\DTO_QLBanHang\bin\Debug\EntityFramework.dll
+D:\New folder (3)\QLBanHang\DTO_QLBanHang\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder (3)\QLBanHang\DTO_QLBanHang\bin\Debug\EntityFramework.xml
+D:\New folder (3)\QLBanHang\DTO_QLBanHang\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder (3)\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.AssemblyReference.cache
+D:\New folder (3)\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+D:\New folder (3)\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.CopyComplete
+D:\New folder (3)\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.dll
+D:\New folder (3)\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.pdb
